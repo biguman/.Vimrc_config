@@ -16,4 +16,3 @@ set clipboard=unnamed
 set backspace=indent,eol,start
 set hlsearch
 set scrolloff=8
-nnoremap <Esc> :noh<CR><Esc>
